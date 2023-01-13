@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "351568272086",
+    "project_id": "assignment1-5e6d9",
+    "storage_bucket": "assignment1-5e6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351568272086:android:bc626270e82b9029cdc777",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351568272086-h081f78rjhk1fkbliccv26mcf3etl2l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMunOXiWQgh6l5ZBnTaY58RAMpxp7LmqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351568272086-h081f78rjhk1fkbliccv26mcf3etl2l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351568272086-6gricpet4r2ur1rfkf7a45uj9a1a0vk9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.tutorial8"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351568272086:android:477a9b190740db98cdc777",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tutorial_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351568272086-h081f78rjhk1fkbliccv26mcf3etl2l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMunOXiWQgh6l5ZBnTaY58RAMpxp7LmqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351568272086-h081f78rjhk1fkbliccv26mcf3etl2l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351568272086-6gricpet4r2ur1rfkf7a45uj9a1a0vk9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.kit305.tutorial8"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
