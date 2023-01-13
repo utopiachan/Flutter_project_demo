@@ -1,2 +1,2 @@
 Flutter_project_demo
-WaiYeung Chan's University XCode project demo With School Reports
+WaiYeung Chan's University Flutter project demo With School Reports
